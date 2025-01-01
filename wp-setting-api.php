@@ -3,7 +3,7 @@
  * Plugin Name: WP-Setting-API Demo
  * Description: WP-Setting-API 的使用示例插件
  * Author: 树新蜂团队
- * Author URI: https://github.com/TheTNB
+ * Author URI: https://github.com/tnb-labs
  * Version: 1.0.1
  * License: GPLv3 or later
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -11,7 +11,7 @@
 defined( 'ABSPATH' ) or exit;
 include_once 'class-setting.php';
 
-use TheTNB\Setting as Setting;
+use TNB\Setting as Setting;
 
 $setting_api = new Setting;
 

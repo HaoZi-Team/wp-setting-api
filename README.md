@@ -5,7 +5,7 @@
 
 # 使用说明
 
-通过 `include_once 'API.php';` 或者 `composer require thetnb/wp-setting-api` 来引入类文件。
+通过 `include_once 'API.php';` 或者 `composer require tnb/wp-setting-api` 来引入类文件。
 
 参考 `wp-setting-api.php` 文件来了解如何使用，你可以把整个目录作为一个插件启用以预览各组件的效果。
 

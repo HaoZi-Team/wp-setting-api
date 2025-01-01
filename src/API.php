@@ -1,6 +1,6 @@
 <?php
 
-namespace TheTNB\Setting;
+namespace TNB\Setting;
 
 defined( 'ABSPATH' ) || exit;
 
